@@ -7,7 +7,7 @@ implementations:
 * [Steven Fortune's implementation](http://ect.bell-labs.com/who/sjf/)
 * [Shane O' Sullivan's C++ version](http://skynet.ie/~sos/mapviewer/voronoi.php)
 
-Details about licensing in (LICENSE.md).
+Details about licensing in [LICENSE.md](LICENSE.md).
 
 TODO
 ----
